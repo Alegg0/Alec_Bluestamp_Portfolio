@@ -62,8 +62,7 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 }
-```
--->
+```-->
 # Starter Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ft7FQacSrX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -74,6 +73,7 @@ My project was programmed in the Arduino IDE, and involves a while loop that run
 
 I experienced some trouble while using the Arduino IDE. As I am familiar with other programming languages such as java and python, I assumed that the "output" window on the IDE was its console, so when I was looking for the values my code was supposed to be outputting, I couldnt find anything on the output. I thought that it was a software issue, so I spent a long time searching for a bug. However, I eventually discovered the "Serial Console", which was where my values were being output.
 # Code
+
 ```c++
 #include <Servo.h>
 
