@@ -6,7 +6,7 @@ A coreXY 3d printer involves a gantry where the x and y axes move, and a vertica
 |:--:|:--:|:--:|:--:|
 | Alec G | Saratoga High School | Aerospace Engineering | incoming junior
 
-![Headstone Image](Alec.svg)
+![Headstone Image](Alec.jpg)
 
 # Starter Project
 
