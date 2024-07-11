@@ -516,28 +516,28 @@ void loop() {
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| 6mm GT2 Belt | x y and z axes movement| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 20 tooth pulleys (3x) | Driving belts | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| F695 Bearings (18x) | idlers for belts | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Assorted screws (m3, m4, m5) | Structure | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Bed leveling springs | bed leveling | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Omron switch | z axis limit switch | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 6mm GT2 Belt | x y and z axes movement| $12 | <a href="https://www.amazon.com/Upgrade-Non-Slip-Version-Printer-Printers/dp/B08R93QQ8Z/ref=sr_1_5?sr=8-5"> Link </a> |
+| 20 tooth pulleys (3x) | Driving belts | $9 | <a href="https://www.amazon.com/3Dman-Pulley-Timing-Aluminum-Printer/dp/B085XLRXS1/ref=sr_1_4?sr=8-4"> Link </a> |
+| F695 Bearings (18x) | idlers for belts | $10 | <a href="https://www.amazon.com/F695-2RS-Bearing-5x13x4mm-Miniature-Bearings/dp/B07VMJLXLH/ref=sr_1_2?sr=8-2"> Link </a> |
+| Assorted screws (m3, m4, m5) | Structure | $25 | <a href="https://www.amazon.com/Machine-Assortment-Metric-Washers-Button/dp/B0C3926M1B/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| Bed leveling springs | bed leveling | $Price | <a href="https://www.amazon.com/Springs-Upgrade-Printer-Leveling-Heatbed/dp/B0CHWJKQVG/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| Omron switch | z axis limit switch | $7 | <a href="https://www.amazon.com/Cylewet-25Pcs-Switch-Arduino-CYT1073/dp/B073TYWX86/ref=sr_1_14?sr=8-14"> Link </a> |
 | 120mmx120mm heated bed| build surface | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Nema 17 42mm stepper motors (3x)| driving x y and z axes | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| pancake stepper motor | driving sherpa mini extruder kit | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Aluminum Sherpa Mini extruder | driving filament | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| CR-10 Hotend | nozzle and hotend for filament | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| PTFE tubing | bowden extruder and feeding filament | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 200mm MGN9C linear rails (2x) | X axis | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 150mm MGN9c linear rail | Y axis | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| LM8UU linear bearings (2x) | holding z-axis  | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 200x8mm linear rods | z axis structure  | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| SKR Mini v3| | MCU motherboard | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Raspberry pi 4 | secondary MCU and to run klipper  | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 4010 blower fan (2x) | part cooling  | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 3010 fan | hotend cooling  | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 120mm PEI build plate | build surface  | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 1 kg 1.75mm PLA filament | frame parts  | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 1 kg 1.75mm PETG filament | bed support and toolhead  | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Nema 17 42mm stepper motors (3x)| driving x y and z axes | $13*3 | <a href="https://www.amazon.com/Stepper-Motor-Bipolar-64oz-Printer/dp/B00PNEQI7W/ref=sr_1_5?sr=8-5"> Link </a> |
+| pancake stepper motor | driving sherpa mini extruder kit | $19 | <a href="https://www.amazon.com/Extruder-Compatible-Stealthburner-Directly-Printer/dp/B0BFGPR4V1/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| Aluminum Sherpa Mini extruder | driving filament | $60 | <a href="https://www.amazon.com/FYSETC-Sherpa-Extruder-Compatible-Printer/dp/B095WFBGL4/ref=sxin_16_pa_sp_search_thematic_sspa?cv_ct_cx=sherpa+mini&pd_rd_i=B095WFBGL4&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1"> Link </a> |
+| CR-10 Hotend | nozzle and hotend for filament | $13 | <a href="https://www.amazon.com/CHPOWER-Assembly-Replacement-CR-10S400-CR-10S500-12V/dp/B07B6HSYR8/ref=sxin_16_pa_sp_search_thematic_sspa?cv_ct_cx=cr10+hotend&pd_rd_i=B07B6HSYR8&s=industrial&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-2-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1"> Link </a> |
+| PTFE tubing | bowden extruder and feeding filament | $7 | <a href="https://www.amazon.com/Meters-White-Teflon-Bowden-Filament/dp/B01CUPV9KC/ref=sr_1_1_sspa?s=industrial&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| 200mm MGN9C linear rails (2x) | X axis | $18*2 | <a href="https://www.amazon.com/Linear-Sliding-Carriage-Printer-Machine/dp/B0BZGVZB6T/ref=sr_1_3_sspa?s=industrial&sr=1-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| 150mm MGN9c linear rail | Y axis | $18 | <a href="https://www.amazon.com/s?k=150mm+mgn9c&i=industrial"> Link </a> |
+| LM8UU linear bearings (2x) | holding z-axis  | $18 | <a href="https://www.amazon.com/uxcell-LM8UU-Linear-Bearings-Length/dp/B07H93T58J/ref=sr_1_5?s=industrial&sr=1-5"> Link </a> |
+| 200x8mm linear rods | z axis structure  | $16 | <a href="https://www.amazon.com/Hardened-Chrome-Plated-Linear-Printer/dp/B09YRLS34X/ref=sr_1_3?s=industrial&sr=1-3"> Link </a> |
+| SKR Mini v3 | MCU motherboard | $43 | <a href="https://www.amazon.com/BIGTREETECH-Control-TMC2209-Stepper-Upgrade/dp/B09LC34SCK/ref=sr_1_1?s=industrial&sr=1-1"> Link </a> |
+| Raspberry pi 4 | secondary MCU and to run klipper  | $60 | <a href="https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X/ref=sr_1_4?sr=8-4"> Link </a> |
+| 4010 blower fan (2x) | part cooling  | $11 | <a href="https://www.amazon.com/WINSINN-Blower-Upgrade-Bearing-CR-10S/dp/B08R9J189W/ref=sr_1_4?sr=8-4"> Link </a> |
+| 3010 fan | hotend cooling  | $10 | <a href="https://www.amazon.com/WINSINN-Brushless-Cooling-30x30x10mm-Extruder/dp/B0757N6B8P/ref=sr_1_5?sr=8-5"> Link </a> |
+| 120mm PEI build plate | build surface  | $10 | <a href="https://www.amazon.com/120x120mm-Textured-Magnetic-Adhesive-Printer/dp/B09TXM7VFC/ref=sr_1_2?sr=8-2"> Link </a> |
+| 1 kg 1.75mm PLA filament | frame parts  | $18 | <a href="https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGZNM34/ref=sr_1_5_pp?sr=8-5"> Link </a> |
+| 1 kg 1.75mm PETG filament | bed support and toolhead  | $21 | <a href="https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PDV9RC8/ref=sr_1_5_pp?sr=8-5"> Link </a> |
 
 
