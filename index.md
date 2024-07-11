@@ -9,9 +9,15 @@ A coreXY 3d printer involves a gantry where the x and y axes move, and a vertica
 <!--- ![Headstone Image](Alec.jpg) -->
 <img src = "Alec.jpg" style= "width:50%; height: 50%">
 
+# Third Milestone
+My third milestone involved installing firmware on my 3d printer and getting it to print a "benchy" (a benchmark test in the shape of a boat for 3d printers). This milestone was by far the most challenging, but I also learned the most from it. Throughout the process of achieving an acceptable print, I short circuited and fried a motherboard, caused a small explosion, and had to rewire my entire printer several times. I began the process by using Raspberry Imager to setup a Mainsail/Klipper profile on a raspberry pi 4. I then used SSH to access my raspberry pi console (running on Debian Linux), where I was able to flash Klipper on my SKR Pico motherboard. I had some issues with SSH, being unable to connect to it on my laptop. However, after reconfiguring my computer's IP v6 compatabiliy, I was able to access my raspberry pi and Mainsail interface. After wiring everything together, I attempted to "home" my 3d printer using sensorless homing. However, I ran into the issue that my printer was unable to detect when the stepper motors were experiencing a stall, and therefore, the sensorless homing would fail every time. I tried to fix this issue by jumping the pins for the x and y endstops (which I did not have), but that caused a short circuit and fried my motherboard. I replaced the SKR Pico with an SKR Mini V3, and redid the entire process of flashing Klipper and using SSH to create the configuration files for my printer. However, because I still had not jumped the x and y axes endstop pins, sensorless homing still did not work. The SKR Mini V3 has diagnostic pins for the x and y endstops, and after jumping those pins, sensorless homing started working. I was able to begin my first print, but the printer was underextruding, resulting in nothing coming out the nozzle. After a bit of troubleshooting with the extruder, I found that loosening a screw on the Sherpa Mini extruder fixed the extrusion issue. However, my initial benchy prints either failed or completely ripped off the bed. The Klippy log files displayed an error of m2 and m3 arcs not being recognized, so after a bit of research I configured my printer to recognize m2 and m3 arcs. After this, my prints looked much cleaner and I was able to print a benchy that surpassed the quality of ender 3 printers, and approaching the quality of high-end printers such as Prusas and Bambulabs.
+
+## SKR Pico 
+
+
 # Second Milestone
 
-My second milestone involved the assembly and wiring of my printer. I
+My second milestone involved the assembly and wiring of my printer. This task involved redesigning and printing several components, and the usage of several materials such as PLA and PETG.
 ### Upper Frame
 I began with the assembly of the upper frame and gantry of my printer, which involved using 3x4x5 heat inserts to make threaded holes in my plastic parts. These heat inserts allowed me to screw on 200mm MGN9C linear rails with 4 m3x16 screws for the X axis as well as the motor and ilder mounts (using m3x8). The idler bearings were screwed on with m5x25 screws, and the motors with m3x8 screws. 
 ### Heatbed Assembly
