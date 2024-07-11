@@ -9,7 +9,7 @@ A coreXY 3d printer involves a gantry where the x and y axes move, and a vertica
 <!--- ![Headstone Image](Alec.jpg) -->
 <img src = "Alec.jpg" style= "width:50%; height: 50%">
 
-# Third Milestone
+# Third Milestone 
 My third milestone involved installing firmware on my 3d printer and getting it to print a "benchy" (a benchmark test in the shape of a boat for 3d printers). 
 
 This milestone was by far the most challenging, but I also learned the most from it. Throughout the process of achieving an acceptable print, I short circuited and fried a motherboard, caused a small explosion, and had to rewire my entire printer several times. 
