@@ -25,7 +25,7 @@ However, my initial benchy prints either failed or completely ripped off the bed
 ## SKR Mini V3 Config files
 
 I found a repository for semi-configured printer config files on Github, and used the template for the SKR Mini v3 as the basis for my custom config file. 
-
+ 
 ### printer.cfg
 ```c++
 # This file contains common pin mappings for the BIGTREETECH SKR mini
