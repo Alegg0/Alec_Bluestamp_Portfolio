@@ -26,6 +26,30 @@ I replaced the SKR Pico with an SKR Mini V3, and redid the entire process of fla
 
 However, my initial benchy prints either failed or completely ripped off the bed. The Klippy log files displayed an error of m2 and m3 arcs not being recognized, so after a bit of research I configured my printer to recognize m2 and m3 arcs. After this, my prints looked much cleaner and I was able to print a benchy that surpassed the quality of ender 3 printers, and approaching the quality of high-end printers such as Prusas and Bambulabs.
 
+## Example Prints
+
+### 1st print
+300mm/s, 10,000mm/s^2 acceleration, 130% extrusion factor 
+<img src = "worst.jpg" style= "width:50%; height: 50%">
+
+### 2nd print
+300mm/s, 5000 mm/s^2 acceleration, 120% extrusion factor 
+<img src = "almost worst.jpg" style= "width:50%; height: 50%">
+
+### 3rd print
+200 mm/s, 5000 mm/s^2 acceleration, 110% extrusion factor
+<img src = "worse.jpg" style= "width:50%; height: 50%">
+
+### 4th print
+250 mm/s, 5000 mm/s^2 acceleration, 80% extrusion factor
+<img src = "bad.jpg" style= "width:50%; height: 50%">
+
+### 5th print
+M2/M3 arcs enabled, 250 mm/s, 5000 mm/s^2 acceleration, 100% extrusion factor
+<img src = "good.jpg" style= "width:50%; height: 50%">
+
+
+
 ## SKR Mini V3 Config files
 
 I found a repository for semi-configured printer config files on Github, and used the template for the SKR Mini v3 as the basis for my custom config file. 
