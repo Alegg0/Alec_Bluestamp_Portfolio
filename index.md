@@ -101,6 +101,28 @@ While CADing, I ran into the issue of part dimensions, and the issue of spacing.
 
 In addition, I printed out a couple of parts for testing, and though I did try to compensate for prints shrinking, there was still a significant amount of shrinking that made some parts unsuitable for use. Before reprinting, I made sure that the new parts had more tolerance.
 
+
+### Feet
+<img src = "foot.png" style= "width:50%; height: 50%">
+
+### Bottom Frame
+<img src = "bottomframe.jpg" style= "width:50%; height: 50%">
+
+### Bed support
+<img src = "bed.jpg" style= "width:50%; height: 50%">
+
+### Upper Frame
+<img src = "topframe.jpg" style= "width:50%; height: 50%">
+
+### Idlers
+<img src = "idler.jpg" style= "width:50%; height: 50%">
+
+### Motor Mount
+<img src = "motor.jpg" style= "width:50%; height: 50%">
+
+### Carriages 
+<img src = "carriage.jpg" style= "width:50%; height: 50%">
+
 # Starter Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ft7FQacSrX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
