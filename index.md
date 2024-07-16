@@ -103,13 +103,16 @@ In addition, I printed out a couple of parts for testing, and though I did try t
 
 
 ### Feet
-<img src = "foot.png" style= "width:50%; height: 50%">
+<img src = "foot.jpg" style= "width:50%; height: 50%">
 
 ### Bottom Frame
 <img src = "bottomframe.jpg" style= "width:50%; height: 50%">
 
 ### Bed support
 <img src = "bed.jpg" style= "width:50%; height: 50%">
+
+### Bed leveling knob
+<img src = "knob.jpg" style= "width:50%; height: 50%">
 
 ### Upper Frame
 <img src = "topframe.jpg" style= "width:50%; height: 50%">
