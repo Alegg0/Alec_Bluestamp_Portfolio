@@ -31,7 +31,7 @@ However, my initial benchy prints either failed or completely ripped off the bed
 I found a repository for semi-configured printer config files on Github, and used the template for the SKR Mini v3 as the basis for my custom config file. 
  
 ### printer.cfg
-```c++
+```
 # This file contains common pin mappings for the BIGTREETECH SKR mini
 # E3 v3.0. To use this config, the firmware should be compiled for the
 # STM32G0B1 with a "8KiB bootloader" and USB communication/USART.
@@ -365,7 +365,7 @@ gcode:
 ```
 
 ### sensorless homing
-```c++
+```
 [gcode_macro _HOME_X]
 gcode:
     # Always use consistent run_current on A/B steppers during sensorless homing
