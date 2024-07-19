@@ -20,7 +20,7 @@ My third milestone involved installing firmware on my 3d printer and getting it 
 
 This milestone was by far the most challenging, but I also learned the most from it. Throughout the process of achieving an acceptable print, I short circuited and fried a motherboard, caused a small explosion, and had to rewire my entire printer several times. 
 
-I began the process by using Raspberry Imager to setup a Mainsail/Klipper profile on a raspberry pi 4. I then used SSH to access my raspberry pi console (running on Debian Linux), where I was able to flash Klipper on my SKR Pico motherboard. I had some issues with SSH, being unable to connect to it on my laptop. However, after reconfiguring my computer's IP v6 compatabiliy, I was able to access my raspberry pi and Mainsail interface.
+I began the process by using Raspberry Imager to setup a Mainsail/Klipper profile on a raspberry pi 4. I then used SSH to access my raspberry pi console (running on Debian Linux), where I was able to flash Klipper on my SKR Pico motherboard. I had some issues with SSH, being unable to connect to it on my laptop. However, after reconfiguring my computer's IP v6 compatibiliy, I was able to access my raspberry pi and Mainsail interface.
 
 After wiring everything together, I attempted to "home" my 3d printer using sensorless homing. However, I ran into the issue that my printer was unable to detect when the stepper motors were experiencing a stall, and therefore, the sensorless homing would fail every time. I tried to fix this issue by jumping the pins for the x and y endstops (which I did not have), but that caused a short circuit and fried my motherboard.
 
