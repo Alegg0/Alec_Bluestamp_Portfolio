@@ -1,5 +1,5 @@
 # coreXY 3d printer
-A coreXY 3d printer involves a gantry with the x and y axes, and a vertical z axis. This configuration of 3d printer is superior to traditional "bed slinger" printers where the y and z axes are attatched to each other, inducing stress on the system as the z axis has to lift the heavy toolead. A coreXY alleviates this issue by moving z axis independently from the x and y, allowing for longer printer lifespan and faster prints.
+A coreXY 3d printer involves a gantry with the x and y axes, and a vertical z axis. This configuration of 3d printer is superior to traditional "bed slinger" printers where the y and z axes are attatched to each other, inducing stress on the system as the z axis has to lift the heavy toolhead. A coreXY alleviates this issue by moving z axis independently from the x and y, allowing for longer printer lifespan and faster prints.
 
 <img src = "coolge.jpg" style= "width:50%; height: 50%">
 
